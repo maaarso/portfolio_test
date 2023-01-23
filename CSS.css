@@ -1,0 +1,100 @@
+#gauche {
+ background-color: lightseagreen;
+    width: 35%;
+    float: left;
+    padding: 2%;
+    height: 100%;
+    text-align: justify;
+
+}
+
+#droite {
+    background-color: azure;
+    width: 55%;
+    float: left;
+    padding: 2%;
+}
+
+#haut {
+    float: left;
+    background-color: cadetblue;
+    width: 90%;
+    padding-right: 60px;
+    padding-left: 60px;
+    margin-bottom: 40px;    
+
+}
+
+#hautGauche {
+    float: left;
+}
+
+#hautDroite {
+    float: left;
+    width: 60%;
+    text-shadow: cadetblue 2px 2px;
+}
+
+#blanc {
+    background-color: azure;
+}
+
+#image {
+    border-radius: 20%;
+    float: left;
+    text-align: center;
+    padding: 4%;
+    height: 80%;
+    width: 70%;
+}
+
+
+.hr {
+    height: 1px;
+    color: black;
+}
+
+#top {
+    font-size: 60px;
+}
+
+#hrtop {
+    height: 4px;
+    background-color: azure;
+}
+
+mark {
+    background-color: azure;
+}
+
+
+
+#topdroitedroite {
+    float: right;
+    color: azure;
+    font-size: 25px;
+}
+
+
+a:link {
+    text-decoration: none;
+    color: black;
+}
+a:visited{
+    color: black
+}
+
+a:hover{
+    color: azure;
+}
+
+.bas {
+    background-color: cadetblue;
+    text-align: center;
+    float: left;
+    padding-left: 2%;
+    padding-right: 2%;
+    width: 29%;
+    padding-bottom: 2%;
+    padding-top: 2%;
+}
